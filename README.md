@@ -1,5 +1,9 @@
-<h1 align="center">Hey there, I’m Mike!</h1>
+<h1 align="center">Hey there, I'm Mike!</h1>
 
-20y/o , passionate about edge technology
+20-year-old Computer Science student at AUEB, passionate about emerging technologies and their real-world applications.
 
-- Studying CS at [AUEB](https://www.aueb.gr)
+Mainly interested in Machine Learning, Distributed Systems, Computer Networks, and the interaction between software and hardware. I enjoy learning how these fields come together to build intelligent systems that can be applied to real-world problems.
+
+
+
+ 
