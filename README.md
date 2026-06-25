@@ -14,4 +14,4 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 **Parallel Computing:** CUDA • OpenCL • OpenMP • Pthreads
 
-**Software & Cloud:** SQL • Jetpack Compose • Firebase • Supabase • AWS • MapReduce
+**Software & Cloud:** SQL • Jetpack Compose • Firebase • Supabase • AWS 
