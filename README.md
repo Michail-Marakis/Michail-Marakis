@@ -8,7 +8,7 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 ## Tech Stack
 
-**Languages:** Python • Java • C++ • Kotlin • C
+**Languages:** Python • Java • Kotlin • C • C++
 
 **AI & ML:** PyTorch • Flower • Hugging Face • Matplotlib • Pinecone • Cohere • NumPy • Pandas
 
