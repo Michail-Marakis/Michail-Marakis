@@ -8,29 +8,10 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 ## Tech Stack
 
-### Languages
-- Python
-- Java
-- C++
-- Kotlin
-- C
+**Languages:** Python • Java • C++ • Kotlin • C
 
-### AI & Machine Learning
-- PyTorch
-- Flower
-- Hugging Face Transformers
-- NumPy
-- Pandas
-- Matplotlib
-- Pinecone
+**AI & ML:** PyTorch • Flower • Hugging Face • Matplotlib • Pinecone • Cohere • NumPy • Pandas
 
-### Parallel & High-Performance Computing
-- CUDA
-- OpenCL
-- Pthreads
+**Parallel Computing:** CUDA • OpenCL • Pthreads
 
-### Software & Cloud
-- Firebase
-- Supabase
-- Jetpack Compose
-- AWS
+**Software & Cloud:** AWS • Firebase • Supabase • Jetpack Compose
