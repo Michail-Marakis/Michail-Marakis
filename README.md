@@ -12,6 +12,6 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 **AI & ML:** PyTorch • Flower • Hugging Face • Pinecone • Cohere • NumPy • Pandas • Matplotlib • sklearn
 
-**Parallel Computing:** CUDA • OpenCL • Pthreads
+**Parallel Computing:** CUDA • OpenCL • OpenMP • Pthreads
 
 **Software & Cloud:** SQL • Jetpack Compose • Firebase • Supabase • AWS
