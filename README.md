@@ -5,3 +5,32 @@
 Mainly interested in Machine Learning, Distributed Systems, Computer Networks, and the interaction between software and hardware. I enjoy learning how these fields come together to build intelligent systems that can be applied to the real world.
 
 My long-term goal is to work on cutting-edge technologies in areas such as AI, aerospace, autonomous systems, and large-scale computing, contributing to organizations that push the boundaries of engineering and innovation.
+
+## Tech Stack
+
+### Languages
+- Python
+- Java
+- C++
+- Kotlin
+- C
+
+### AI & Machine Learning
+- PyTorch
+- Flower
+- Hugging Face Transformers
+- NumPy
+- Pandas
+- Matplotlib
+- Pinecone
+
+### Parallel & High-Performance Computing
+- CUDA
+- OpenCL
+- Pthreads
+
+### Software & Cloud
+- Firebase
+- Supabase
+- Jetpack Compose
+- AWS
