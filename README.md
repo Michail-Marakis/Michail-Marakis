@@ -10,7 +10,7 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 **Languages:** Python • Java • Kotlin • C • C++
 
-**AI & ML:** PyTorch • Federated Learning (Flower) • RAG (Pinecone, Cohere) • Hugging Face • ML Kit • NumPy • Pandas • Matplotlib • scikit-learn
+**AI & ML**: Deep Learning (PyTorch) • Federated Learning (Flower) • Computer Vision (FaceNet, ML Kit) • RAG (Pinecone, Cohere) • Hugging Face • scikit-learn  • NumPy • Pandas • Matplotlib
 
 **Parallel Computing:** • CUDA • OpenCL • OpenMP • Pthreads • MapReduce
 
