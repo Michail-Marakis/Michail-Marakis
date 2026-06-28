@@ -8,18 +8,11 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 ## Tech Stack
 
-### Languages: ![Python](https://img.shields.io/badge/python-%23357ABD.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B0D.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Languages
+Python • Java • Kotlin • C • C++
 
 **AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** Computer Vision (FaceNet, ML Kit) **•** RAG (Pinecone, Cohere) **•** Hugging Face **•** scikit-learn **•** NumPy **•** Pandas **•** Matplotlib
 
->  **Featured implementations:** [Machine Learning Algorithms & Neural Architectures From Scratch](https://github.com/Michail-Marakis/ML-Architectures-From-Scratch) **•** [Federated Learning Performance Analysis](https://github.com/Michail-Marakis/Performance-Analysis-Complex-Networked-Systems) **•** [Computer Vision & Augmented Reality](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) **•** [RAG pipeline with semantic routing and multi-stage re-ranking](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md)
-
 **Parallel Computing:** CUDA **•** OpenCL **•** OpenMP **•** Pthreads **•** MapReduce
 
-> **Featured implementations:** [Parallel Programming](https://github.com/Michail-Marakis/Parallel-Programming) **•** [Distributed Systems Casino (MapReduce)](https://github.com/Michail-Marakis/Distributed-Systems-Casino)
-
 **Software & Cloud:** Jetpack Compose **•** Firebase **•** Supabase **•** AWS **•** SQL
-
-> **Featured implementations:** [Decyra](https://github.com/Michail-Marakis/Decyra)
-
-**Additional Projects:** [CityRush](https://github.com/Michail-Marakis/CityRush) **•** [Sokoban A* Solver](https://github.com/Michail-Marakis/Sokoban-solver-using-A-star) **•** [ViaPharma](https://github.com/Michail-Marakis/ViaPharma)
