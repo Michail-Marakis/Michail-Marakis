@@ -12,14 +12,14 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 **AI & ML:** PyTorch • FaceNet • ML Kit • Pinecone • Cohere • Flower • Hugging Face • scikit-learn • NumPy • Pandas • Matplotlib
 
-> **Related implementations:** [Deep Learning from Scratch](...) • [Federated Learning Performance Analysis](...) • [Computer Vision & Augmanted Reality](...) • [RAG Pipeline](...)
+> **Related implementations:** [ML Architectures From Scratch](https://github.com/Michail-Marakis/ML-Architectures-From-Scratch) • [Federated Learning Performance Analysis](https://github.com/Michail-Marakis/Performance-Analysis-Complex-Networked-Systems) • [Computer Vision & Augmanted Reality](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) • [RAG pipeline with semantic routing and multi-stage re-ranking](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md)
 
 **Parallel Computing:** CUDA • OpenCL • OpenMP • Pthreads • MapReduce
 
-> **Related implementations:** [Parallel Programming](...) • [Distributed Systems Casino (MapReduce)](...)
+> **Related implementations:** [Parallel Programming](https://github.com/Michail-Marakis/Parallel-Programming) • [Distributed Systems Casino (MapReduce)](https://github.com/Michail-Marakis/Distributed-Systems-Casino)
 
 **Software & Cloud:** Jetpack Compose • Firebase • Supabase • AWS • SQL
 
-> **Related implementations:** [Decyra Mobile Application](...)
+> **Related implementations:** [Decyra production-ready Application](https://github.com/Michail-Marakis/Decyra)
 
-**Additional Projects:** [CityRush](...) • [Sokoban A* Solver](...) • [ViaPharma](...)
+**Additional Projects:** [CityRush](https://github.com/Michail-Marakis/CityRush) • [Sokoban A* Solver](https://github.com/Michail-Marakis/Sokoban-solver-using-A-star) • [ViaPharma](https://github.com/Michail-Marakis/ViaPharma)
