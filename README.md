@@ -10,7 +10,7 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 **Languages:** Python **•** Java **•** Kotlin **•** C **•** C++
 
-**AI & ML:** PyTorch **•** FaceNet **•** ML Kit **•** Pinecone **•** Cohere **•** Flower **•** Hugging Face **•** scikit-learn **•** NumPy **•** Pandas **•** Matplotlib
+**AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** Computer Vision (FaceNet, ML Kit) **•** RAG (Pinecone, Cohere) **•** Hugging Face **•** scikit-learn **•** NumPy **•** Pandas **•** Matplotlib
 
 >  **Featured implementations:** [Machine Learning Algorithms & Neural Architectures From Scratch](https://github.com/Michail-Marakis/ML-Architectures-From-Scratch) **•** [Federated Learning Performance Analysis](https://github.com/Michail-Marakis/Performance-Analysis-Complex-Networked-Systems) **•** [Computer Vision & Augmanted Reality](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) **•** [RAG pipeline with semantic routing and multi-stage re-ranking](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md)
 
