@@ -10,8 +10,8 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 **Languages:** Python • Java • Kotlin • C • C++
 
-**AI & ML**: Deep Learning (PyTorch) • Federated Learning (Flower) • Computer Vision (FaceNet, ML Kit) • RAG (Pinecone, Cohere) • Hugging Face • scikit-learn  • NumPy • Pandas • Matplotlib
+**AI & ML**: [Deep Learning (PyTorch)](https://github.com/Michail-Marakis/ML-Architectures-From-Scratch) • [Federated Learning (Flower)](https://github.com/Michail-Marakis/Performance-Analysis-Complex-Networked-Systems) • [Computer Vision (FaceNet, ML Kit)](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) • [RAG (Pinecone, Cohere)](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md) • Hugging Face • scikit-learn  • NumPy • Pandas • Matplotlib
 
-**Parallel Computing:** • CUDA • OpenCL • OpenMP • Pthreads • MapReduce
+**[Parallel Computing](https://github.com/Michail-Marakis/Parallel-Programming):** • CUDA • OpenCL • OpenMP • Pthreads • [MapReduce](https://github.com/Michail-Marakis/Distributed-Systems-Casino)
 
-**Software & Cloud:** SQL • Jetpack Compose • Firebase • Supabase • AWS
+**[Software & Cloud](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/README.md):** SQL • Jetpack Compose • Firebase • Supabase • AWS
