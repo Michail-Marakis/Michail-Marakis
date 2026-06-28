@@ -10,8 +10,10 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 **Languages:** Python • Java • Kotlin • C • C++
 
-**AI & ML**: [Deep Learning](https://github.com/Michail-Marakis/ML-Architectures-From-Scratch) (PyTorch) • [Federated Learning](https://github.com/Michail-Marakis/Performance-Analysis-Complex-Networked-Systems) (Flower) • [Computer Vision](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) (FaceNet, ML Kit) • [RAG](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md) (Pinecone, Cohere) • Hugging Face • scikit-learn  • NumPy • Pandas • Matplotlib
+**AI & ML:** [Deep Learning](https://github.com/Michail-Marakis/ML-Architectures-From-Scratch) (PyTorch) • [Federated Learning](https://github.com/Michail-Marakis/Performance-Analysis-Complex-Networked-Systems) (Flower) • [Computer Vision](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) (FaceNet, ML Kit) • [RAG](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md) (Pinecone, Cohere) • Hugging Face • scikit-learn  • NumPy • Pandas • Matplotlib
 
 **[Parallel Computing](https://github.com/Michail-Marakis/Parallel-Programming):** • CUDA • OpenCL • OpenMP • Pthreads • [MapReduce](https://github.com/Michail-Marakis/Distributed-Systems-Casino)
 
 **[Software & Cloud](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/README.md):** SQL • Jetpack Compose • Firebase • Supabase • AWS
+
+**Additional Projects**: [2D Game using graphics library](https://github.com/Michail-Marakis/CityRush) • [A* algorithm optimization](https://github.com/Michail-Marakis/Sokoban-solver-using-A-star) • [Warehouse application](https://github.com/Michail-Marakis/ViaPharma)
