@@ -8,7 +8,15 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 ## Tech Stack
 
-**Languages:** Python **•** Java **•** Kotlin **•** C **•** C++
+### Languages
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+</p>
 
 **AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** Computer Vision (FaceNet, ML Kit) **•** RAG (Pinecone, Cohere) **•** Hugging Face **•** scikit-learn **•** NumPy **•** Pandas **•** Matplotlib
 
