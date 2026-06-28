@@ -8,13 +8,7 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 ## Tech Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/python-%23357ABD.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B0D.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Languages: ![Python](https://img.shields.io/badge/python-%23357ABD.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B0D.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** Computer Vision (FaceNet, ML Kit) **•** RAG (Pinecone, Cohere) **•** Hugging Face **•** scikit-learn **•** NumPy **•** Pandas **•** Matplotlib
 
