@@ -16,3 +16,5 @@ Python • Java • Kotlin • C • C++
 **Parallel Computing:** CUDA **•** OpenCL **•** OpenMP **•** Pthreads **•** MapReduce
 
 **Software & Cloud:** Jetpack Compose **•** Firebase **•** Supabase **•** AWS **•** SQL
+
+I've also built a [2D adventure game](https://github.com/Michail-Marakis/CityRush), an [A*-based Sokoban solver for challenging puzzles](https://github.com/Michail-Marakis/Sokoban-solver-using-A-star), and a [pharmacy warehouse management application](https://github.com/Michail-Marakis/ViaPharma).
