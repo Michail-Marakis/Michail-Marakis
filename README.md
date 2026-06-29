@@ -17,4 +17,6 @@ Python • Java • Kotlin • C • C++
 
 **Software & Cloud:** Jetpack Compose **•** Firebase **•** Supabase **•** AWS **•** SQL
 
+The technologies listed above are demonstrated through the pinned repositories below.
+
 I've also built a [2D adventure game](https://github.com/Michail-Marakis/CityRush), an [A*-based Sokoban solver for challenging puzzles](https://github.com/Michail-Marakis/Sokoban-solver-using-A-star), and a [pharmacy warehouse management application](https://github.com/Michail-Marakis/ViaPharma).
