@@ -13,9 +13,9 @@ Python • Java • Kotlin • C • C++
 
 **AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** [Computer Vision](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) (FaceNet, ML Kit) **•** [RAG](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md) (Pinecone, Cohere) **•** Hugging Face **•** scikit-learn **•** NumPy **•** Pandas **•** Matplotlib
 
-**Parallel Computing:** CUDA **•** OpenCL **•** OpenMP **•** Pthreads **•** MapReduce
+**Systems Programming & Hardware:** CUDA **•** OpenCL **•** OpenMP **•** Pthreads **•** VHDL
 
-**Software & Cloud:** Jetpack Compose **•** Firebase **•** Supabase **•** AWS **•** SQL
+**Software & Cloud:** Jetpack Compose **•** MapReduce **•** Firebase **•** Supabase **•** AWS **•** SQL
 
 The technologies listed above are demonstrated through the pinned repositories below.
 
