@@ -15,7 +15,7 @@ Python • Java • Kotlin • C • C++
 
 **Systems Programming & Hardware:** CUDA **•** OpenCL **•** OpenMP **•** Pthreads **•** VHDL
 
-**Software & Cloud:** Jetpack Compose **•** MapReduce **•** Firebase **•** Supabase **•** AWS **•** SQL
+**Software & Cloud:** Jetpack Compose **•** SQL **•** Firebase **•** Supabase **•** AWS **•** MapReduce **•** UML
 
 The technologies listed above are demonstrated through the pinned repositories below.
 
