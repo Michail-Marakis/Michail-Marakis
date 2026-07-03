@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Mike!</h1> 
 
-20-year-old Computer Science student at [AUEB](https://www.aueb.gr/) , passionate about emerging technologies and their real-world applications. 
+20-year-old Computer Science student at [AUEB](https://www.aueb.gr/) , passionate about emerging technologies and their real-world applications.       
 Check my CV [here](https://drive.google.com/file/d/1L6vDjwnGtj_Kfy_4LzENmVWL96Y_oyCM/view?usp=sharing)
 
 Mainly interested in Machine Learning, Distributed Systems, Computer Networks, and the interaction between software and hardware. I enjoy learning how these fields come together to build intelligent systems that can be applied to the real world. 
