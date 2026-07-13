@@ -12,7 +12,7 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 ### Languages
 Python • Java • Kotlin • C • C++
 
-**AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** Reinforcement Learning (Gymnasium) **•** [Computer Vision](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) (FaceNet, ML Kit) **•** [RAG](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md) (Pinecone, Cohere) **•** Hugging Face **•** scikit-learn **•** NumPy **•** Pandas **•** Matplotlib
+**AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** Reinforcement Learning (Gymnasium) **•** [Computer Vision](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) (FaceNet, ML Kit) **•** [RAG](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md) (Pinecone, Cohere) **•** Hugging Face 
 
 **Systems Programming & Hardware:** CUDA **•** OpenCL **•** OpenMP **•** Pthreads **•** VHDL
 
