@@ -9,9 +9,6 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 ## Tech Stack
 
-### Languages
-Python • Java • Kotlin • C • C++
-
 **AI & ML:** Deep Learning (PyTorch) **•** Federated Learning (Flower) **•** Reinforcement Learning (Gymnasium) **•** [Computer Vision](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/frontend/Computer_Vision-AR.md) (FaceNet, ML Kit) **•** [Agentic AI](https://github.com/Michail-Marakis/Decyra/blob/main/app/src/main/java/com/example/decyra/backend/ai/README.md) (RAG, Pinecone, Cohere) **•** Hugging Face 
 
 **Systems Programming & Hardware:** CUDA **•** OpenCL **•** OpenMP **•** Pthreads **•** VHDL
