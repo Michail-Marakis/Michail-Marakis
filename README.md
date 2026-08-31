@@ -17,4 +17,4 @@ My long-term goal is to work on cutting-edge technologies in areas such as AI, a
 
 The technologies listed above are demonstrated through the pinned repositories below.
 
-I've also built a [2D adventure game](https://github.com/Michail-Marakis/CityRush), and a [pharmacy warehouse management application](https://github.com/Michail-Marakis/ViaPharma).
+I've also built a [2D adventure game](https://github.com/Michail-Marakis/CityRush), a [pharmacy warehouse management application](https://github.com/Michail-Marakis/ViaPharma) and designed and implemented the [Gym Access System](https://github.com/Michail-Marakis/Military-GymAccess-Control) for the Greek Pentagon.
