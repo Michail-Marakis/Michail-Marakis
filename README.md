@@ -5,7 +5,7 @@
 
 Mainly interested in Systems and Control, Robotics, Machine Learning, and the interaction between software and hardware. I enjoy exploring how these fields come together to design and develop intelligent systems with real-world applications.
 
-My long-term goal is to work on cutting-edge technologies in areas such as Physical AI, aerospace, autonomous systems, and large-scale computing, contributing to organizations that push the boundaries of engineering and innovation.
+My long-term goal is to work on cutting-edge technologies in areas such as Physical AI, Aerospace and Autonomous Systems contributing to organizations that push the boundaries of engineering and innovation.
 
 ## Tech Stack
 
