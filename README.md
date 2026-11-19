@@ -3,9 +3,9 @@
 21-year-old Computer Science student at [AUEB](https://www.aueb.gr/) , passionate about emerging technologies and their real-world applications.       
 -   Check my CV [here](https://drive.google.com/file/d/1rD7dKEEoYbr_C5XwHd6HS00i93aH_-KJ/view?usp=sharing)
 
-Mainly interested in Machine Learning, Distributed Systems, Computer Networks, and the interaction between software and hardware. I enjoy learning how these fields come together to build intelligent systems that can be applied to the real world. 
+Mainly interested in Systems and Control, Robotics, Machine Learning, and the interaction between software and hardware. I enjoy exploring how these fields come together to design and develop intelligent systems with real-world applications.
 
-My long-term goal is to work on cutting-edge technologies in areas such as AI, aerospace, autonomous systems, and large-scale computing, contributing to organizations that push the boundaries of engineering and innovation.
+My long-term goal is to work on cutting-edge technologies in areas such as Physical AI, aerospace, autonomous systems, and large-scale computing, contributing to organizations that push the boundaries of engineering and innovation.
 
 ## Tech Stack
 
